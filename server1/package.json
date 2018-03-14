@@ -1,0 +1,16 @@
+{
+  "name": "service1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Alexandre Saker",
+  "email": "saker.alexandre@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
